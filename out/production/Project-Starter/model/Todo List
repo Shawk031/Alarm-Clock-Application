@@ -1,0 +1,27 @@
+
+
+
+Need to make sure the alarms legitimately ring
+
+Need to add scrolling functionality
+Need to add swapping status functionality
+Need to add renaming functionality
+
+
+Need to add a menu with buttons that DOESNT MOVE (think like the score panel.)
+- yo I could make a whole new panel here that does this so the previous panel can register the inputs
+and do things with them and can scroll without moving buttons
+
+
+
+
+Citations:
+
+For time:
+https://stackoverflow.com/questions/8014325/currenttimemillis-to-years-days-and-minutes-and-backwords-hard
+
+
+
+
+
+

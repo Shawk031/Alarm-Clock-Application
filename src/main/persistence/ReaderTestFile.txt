@@ -1,0 +1,6 @@
+a,5,30,FirstAlarm,T
+b,firstBundle,true,1,5,40,bundleAlarm1,true
+a,5,29,SecondAlarm,F
+b,bundle2,true,2,5,3,first,true,7,6,second,true
+a,4,29,Yote,T
+b,yeOUT,true,2,5,6,dsfkj,true,20,4,oi,true
